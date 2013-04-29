@@ -1,4 +1,4 @@
 subl-handler
 ============
 
-Setup and handle subl:// protocol to open them in Sublime Text
+Setup and handle subl:// protocol to open them in Sublime Text on Linux system
